@@ -1,0 +1,107 @@
+root,category,subcategory,concept,level
+Ayurveda,Fundamental Concepts,Tridosha,Vata,4
+Ayurveda,Fundamental Concepts,Tridosha,Pitta,4
+Ayurveda,Fundamental Concepts,Tridosha,Kapha,4
+Ayurveda,Fundamental Concepts,Panchamahabhuta,Akasha,4
+Ayurveda,Fundamental Concepts,Panchamahabhuta,Vayu,4
+Ayurveda,Fundamental Concepts,Panchamahabhuta,Agni,4
+Ayurveda,Fundamental Concepts,Panchamahabhuta,Jala,4
+Ayurveda,Fundamental Concepts,Panchamahabhuta,Prithvi,4
+Ayurveda,Fundamental Concepts,Trigunas,Sattva,4
+Ayurveda,Fundamental Concepts,Trigunas,Rajas,4
+Ayurveda,Fundamental Concepts,Trigunas,Tamas,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Rasa,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Rakta,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Mamsa,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Meda,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Asthi,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Majja,4
+Ayurveda,Fundamental Concepts,Sapta Dhatu,Shukra,4
+Ayurveda,Fundamental Concepts,Trimala,Mutra,4
+Ayurveda,Fundamental Concepts,Trimala,Purisha,4
+Ayurveda,Fundamental Concepts,Trimala,Sweda,4
+Ayurveda,Prakriti (Constitution),Vata Prakriti,,3
+Ayurveda,Prakriti (Constitution),Pitta Prakriti,,3
+Ayurveda,Prakriti (Constitution),Kapha Prakriti,,3
+Ayurveda,Prakriti (Constitution),Dwandwa Prakriti,Vata-Pitta,4
+Ayurveda,Prakriti (Constitution),Dwandwa Prakriti,Pitta-Kapha,4
+Ayurveda,Prakriti (Constitution),Dwandwa Prakriti,Vata-Kapha,4
+Ayurveda,Prakriti (Constitution),Tridoshaja Prakriti,,3
+Ayurveda,Herbs & Medicinal Plants,Adaptogenic Herbs,Ashwagandha,4
+Ayurveda,Herbs & Medicinal Plants,Adaptogenic Herbs,Shatavari,4
+Ayurveda,Herbs & Medicinal Plants,Adaptogenic Herbs,Brahmi,4
+Ayurveda,Herbs & Medicinal Plants,Digestive Herbs,Triphala,4
+Ayurveda,Herbs & Medicinal Plants,Digestive Herbs,Trikatu,4
+Ayurveda,Herbs & Medicinal Plants,Digestive Herbs,Ginger,4
+Ayurveda,Herbs & Medicinal Plants,Digestive Herbs,Cumin,4
+Ayurveda,Herbs & Medicinal Plants,Anti-inflammatory Herbs,Turmeric,4
+Ayurveda,Herbs & Medicinal Plants,Anti-inflammatory Herbs,Neem,4
+Ayurveda,Herbs & Medicinal Plants,Anti-inflammatory Herbs,Guduchi,4
+Ayurveda,Herbs & Medicinal Plants,Nervine Herbs,Brahmi,4
+Ayurveda,Herbs & Medicinal Plants,Nervine Herbs,Shankhapushpi,4
+Ayurveda,Herbs & Medicinal Plants,Nervine Herbs,Jatamansi,4
+Ayurveda,Herbs & Medicinal Plants,Cardiac Herbs,Arjuna,4
+Ayurveda,Herbs & Medicinal Plants,Cardiac Herbs,Pushkarmool,4
+Ayurveda,Formulations,Churna (Powder),Triphala Churna,4
+Ayurveda,Formulations,Churna (Powder),Trikatu Churna,4
+Ayurveda,Formulations,Churna (Powder),Ashwagandha Churna,4
+Ayurveda,Formulations,Kwatha (Decoction),Dashmoola Kwatha,4
+Ayurveda,Formulations,Kwatha (Decoction),Triphala Kwatha,4
+Ayurveda,Formulations,Taila (Oil),Sesame Oil,4
+Ayurveda,Formulations,Taila (Oil),Brahmi Taila,4
+Ayurveda,Formulations,Taila (Oil),Ksheerabala Taila,4
+Ayurveda,Formulations,Ghrita (Ghee),Shatavari Ghrita,4
+Ayurveda,Formulations,Ghrita (Ghee),Brahmi Ghrita,4
+Ayurveda,Formulations,Vati (Tablet),Arogyavardhini Vati,4
+Ayurveda,Formulations,Vati (Tablet),Chandraprabha Vati,4
+Ayurveda,Formulations,Asava/Arishta (Fermented),Dashamularishta,4
+Ayurveda,Formulations,Asava/Arishta (Fermented),Saraswatarishta,4
+Ayurveda,Diseases (Vyadhi),Digestive Disorders,Ajirna,4
+Ayurveda,Diseases (Vyadhi),Digestive Disorders,Atisara,4
+Ayurveda,Diseases (Vyadhi),Digestive Disorders,Grahani,4
+Ayurveda,Diseases (Vyadhi),Digestive Disorders,Arsha,4
+Ayurveda,Diseases (Vyadhi),Respiratory Disorders,Kasa,4
+Ayurveda,Diseases (Vyadhi),Respiratory Disorders,Swasa,4
+Ayurveda,Diseases (Vyadhi),Respiratory Disorders,Pratishyaya,4
+Ayurveda,Diseases (Vyadhi),Metabolic Disorders,Prameha,4
+Ayurveda,Diseases (Vyadhi),Metabolic Disorders,Madhumeha,4
+Ayurveda,Diseases (Vyadhi),Metabolic Disorders,Sthoulya,4
+Ayurveda,Diseases (Vyadhi),Neurological Disorders,Apasmara,4
+Ayurveda,Diseases (Vyadhi),Neurological Disorders,Unmada,4
+Ayurveda,Diseases (Vyadhi),Neurological Disorders,Vata Vyadhi,4
+Ayurveda,Diseases (Vyadhi),Skin Disorders,Kushtha,4
+Ayurveda,Diseases (Vyadhi),Skin Disorders,Vicharchika,4
+Ayurveda,Diseases (Vyadhi),Skin Disorders,Shwitra,4
+Ayurveda,Treatment Modalities,Panchakarma,Vamana,4
+Ayurveda,Treatment Modalities,Panchakarma,Virechana,4
+Ayurveda,Treatment Modalities,Panchakarma,Basti,4
+Ayurveda,Treatment Modalities,Panchakarma,Nasya,4
+Ayurveda,Treatment Modalities,Panchakarma,Raktamokshana,4
+Ayurveda,Treatment Modalities,Shamana Chikitsa,Langhana,4
+Ayurveda,Treatment Modalities,Shamana Chikitsa,Deepana,4
+Ayurveda,Treatment Modalities,Shamana Chikitsa,Pachana,4
+Ayurveda,Treatment Modalities,Rasayana (Rejuvenation),Chyawanprash,4
+Ayurveda,Treatment Modalities,Rasayana (Rejuvenation),Brahma Rasayana,4
+Ayurveda,Treatment Modalities,Ahara (Diet Therapy),Pathya Ahara,4
+Ayurveda,Treatment Modalities,Ahara (Diet Therapy),Apathya Ahara,4
+Ayurveda,Treatment Modalities,Yoga & Pranayama,Surya Namaskar,4
+Ayurveda,Treatment Modalities,Yoga & Pranayama,Pranayama,4
+Ayurveda,Treatment Modalities,Yoga & Pranayama,Dhyana,4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Nadi (Pulse),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Mutra (Urine),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Mala (Stool),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Jihva (Tongue),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Shabda (Voice),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Sparsha (Touch),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Drik (Eyes),4
+Ayurveda,Diagnostic Methods,Ashtavidha Pariksha,Akriti (Appearance),4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Prakriti,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Vikriti,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Sara,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Samhanana,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Pramana,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Satmya,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Satva,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Ahara Shakti,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Vyayama Shakti,4
+Ayurveda,Diagnostic Methods,Dashavidha Pariksha,Vaya,4

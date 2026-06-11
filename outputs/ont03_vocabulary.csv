@@ -1,0 +1,38 @@
+term_id,preferred_term,term_type,definition,standard_source,icd_mapping,status
+AYU-001,Vata,Dosha,"One of the three biological energies governing movement, nervous system, and elimination",Charaka Samhita,,Active
+AYU-002,Pitta,Dosha,"One of the three biological energies governing digestion, metabolism, and transformation",Charaka Samhita,,Active
+AYU-003,Kapha,Dosha,"One of the three biological energies governing structure, lubrication, and immunity",Charaka Samhita,,Active
+AYU-010,Rasa Dhatu,Dhatu,First tissue layer; plasma and lymphatic fluid,Ashtanga Hridayam,,Active
+AYU-011,Rakta Dhatu,Dhatu,Second tissue layer; blood and its components,Ashtanga Hridayam,,Active
+AYU-012,Mamsa Dhatu,Dhatu,Third tissue layer; muscle tissue,Ashtanga Hridayam,,Active
+AYU-013,Meda Dhatu,Dhatu,Fourth tissue layer; adipose/fat tissue,Ashtanga Hridayam,,Active
+AYU-014,Asthi Dhatu,Dhatu,Fifth tissue layer; bone tissue,Ashtanga Hridayam,,Active
+AYU-015,Majja Dhatu,Dhatu,Sixth tissue layer; bone marrow and nerve tissue,Ashtanga Hridayam,,Active
+AYU-016,Shukra Dhatu,Dhatu,Seventh tissue layer; reproductive tissue,Ashtanga Hridayam,,Active
+AYU-020,Ashwagandha,Herb,Withania somnifera; adaptogenic herb used for strength and vitality,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-021,Shatavari,Herb,Asparagus racemosus; rejuvenating herb for female reproductive health,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-022,Brahmi,Herb,Bacopa monnieri; nervine tonic for memory and cognition,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-023,Haridra,Herb,Curcuma longa; anti-inflammatory and antimicrobial herb,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-024,Nimba,Herb,Azadirachta indica; blood purifier and skin disease remedy,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-025,Guduchi,Herb,Tinospora cordifolia; immunomodulator and adaptogen,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-026,Amalaki,Herb,"Emblica officinalis; richest natural source of Vitamin C, Rasayana herb",Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-027,Haritaki,Herb,"Terminalia chebula; digestive, laxative, and Rasayana herb",Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-028,Bibhitaki,Herb,Terminalia bellerica; respiratory and digestive herb,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-029,Arjuna,Herb,Terminalia arjuna; cardiac tonic herb,Ayurvedic Pharmacopoeia of India Vol.1,,Active
+AYU-040,Triphala Churna,Formulation,"Powder of three fruits (Amalaki, Haritaki, Bibhitaki); digestive and detox formula",Ayurvedic Formulary of India,,Active
+AYU-041,Trikatu Churna,Formulation,"Powder of three pungents (Shunthi, Maricha, Pippali); digestive stimulant",Ayurvedic Formulary of India,,Active
+AYU-042,Chyawanprash,Formulation,Classical Rasayana jam with Amalaki base; immunity booster,Charaka Samhita / Ayurvedic Formulary of India,,Active
+AYU-043,Dashamularishta,Formulation,Fermented preparation of ten roots; tonic for postpartum and respiratory health,Ayurvedic Formulary of India,,Active
+AYU-044,Arogyavardhini Vati,Formulation,Classical tablet for liver disorders and skin diseases,Ayurvedic Formulary of India,,Active
+AYU-050,Prameha,Disease,Group of urinary disorders including diabetes mellitus,Charaka Samhita,E11 (Type 2 DM),Active
+AYU-051,Sthoulya,Disease,Obesity; excess accumulation of Meda Dhatu,Charaka Samhita,E66 (Obesity),Active
+AYU-052,Kasa,Disease,Cough; classified into five types based on dosha involvement,Charaka Samhita,R05 (Cough),Active
+AYU-053,Swasa,Disease,Dyspnoea/Asthma; breathing difficulty due to Vata-Kapha imbalance,Charaka Samhita,J45 (Asthma),Active
+AYU-054,Arsha,Disease,Haemorrhoids/Piles; anorectal disease classified in Sushruta,Sushruta Samhita,K64 (Haemorrhoids),Active
+AYU-055,Kushtha,Disease,Skin diseases including leprosy; 18 types described in classics,Charaka Samhita,L98 (Skin disorders NEC),Active
+AYU-056,Ajirna,Disease,Indigestion; impaired digestive fire (Agni),Ashtanga Hridayam,K30 (Functional dyspepsia),Active
+AYU-060,Vamana,Panchakarma,Therapeutic emesis; primary treatment for Kapha disorders,Ashtanga Hridayam,,Active
+AYU-061,Virechana,Panchakarma,Therapeutic purgation; primary treatment for Pitta disorders,Ashtanga Hridayam,,Active
+AYU-062,Basti,Panchakarma,Medicated enema; primary treatment for Vata disorders,Ashtanga Hridayam,,Active
+AYU-063,Nasya,Panchakarma,Nasal drug administration; treatment for head and neck disorders,Ashtanga Hridayam,,Active
+AYU-064,Raktamokshana,Panchakarma,Bloodletting therapy; treatment for blood-borne disorders,Sushruta Samhita,,Active

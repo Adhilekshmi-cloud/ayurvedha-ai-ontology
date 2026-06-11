@@ -1,0 +1,39 @@
+sanskrit,english,category,alternate_sanskrit,source
+Vata,Wind / Air-Space Energy,Dosha,"Anila, Pavana",Charaka Samhita
+Pitta,Fire / Bile Energy,Dosha,"Agni, Teja",Charaka Samhita
+Kapha,Water / Earth Energy,Dosha,"Shleshma, Ledha",Charaka Samhita
+Rasa,Plasma / Lymph,Dhatu,Ahara Rasa,Ashtanga Hridayam
+Rakta,Blood,Dhatu,"Asra, Lohita",Ashtanga Hridayam
+Mamsa,Muscle Tissue,Dhatu,Palala,Ashtanga Hridayam
+Meda,Adipose / Fat Tissue,Dhatu,Vasaa,Ashtanga Hridayam
+Asthi,Bone Tissue,Dhatu,Haddi,Ashtanga Hridayam
+Majja,Bone Marrow / Nerve Tissue,Dhatu,,Ashtanga Hridayam
+Shukra,Reproductive Tissue / Semen,Dhatu,Retas,Ashtanga Hridayam
+Ashwagandha,Indian Ginseng / Winter Cherry,Herb,"Vajigandha, Balya",Ayurvedic Pharmacopoeia of India
+Shatavari,Asparagus,Herb,"Shatamuli, Bahusuta",Ayurvedic Pharmacopoeia of India
+Brahmi,Water Hyssop / Bacopa,Herb,"Saraswati, Mandukparni",Ayurvedic Pharmacopoeia of India
+Haridra,Turmeric,Herb,"Kanchani, Nisha",Ayurvedic Pharmacopoeia of India
+Nimba,Neem,Herb,"Pichumarda, Arishta",Ayurvedic Pharmacopoeia of India
+Guduchi,Giloy / Tinospora,Herb,"Amrita, Chakrangi",Ayurvedic Pharmacopoeia of India
+Amalaki,Indian Gooseberry / Amla,Herb,"Dhatri, Amrita",Ayurvedic Pharmacopoeia of India
+Bibhitaki,Belleric Myrobalan,Herb,"Vibhitaka, Karshaphala",Ayurvedic Formulary of India
+Haritaki,Chebulic Myrobalan,Herb,"Abhaya, Pathya",Ayurvedic Formulary of India
+Shunthi,Dry Ginger,Herb,"Vishvabheshaja, Nagara",Ayurvedic Pharmacopoeia of India
+Maricha,Black Pepper,Herb,"Krishnadi, Vellaja",Ayurvedic Pharmacopoeia of India
+Pippali,Long Pepper,Herb,"Magadhi, Ushana",Ayurvedic Pharmacopoeia of India
+Arjuna,Arjuna Tree / Terminalia arjuna,Herb,"Kakubha, Nadisarja",Ayurvedic Pharmacopoeia of India
+Prameha,Urinary Disorders / Diabetes,Disease,Madhumeha (specific),Charaka Samhita
+Ajirna,Indigestion,Disease,Amasaya Roga,Charaka Samhita
+Kasa,Cough,Disease,,Charaka Samhita
+Swasa,Asthma / Dyspnoea,Disease,Shwasa,Charaka Samhita
+Kushtha,Skin Diseases / Leprosy,Disease,,Charaka Samhita
+Arsha,Haemorrhoids / Piles,Disease,,Sushruta Samhita
+Sthoulya,Obesity,Disease,Atisthaulya,Charaka Samhita
+Vamana,Therapeutic Emesis / Vomiting Therapy,Panchakarma,,Ashtanga Hridayam
+Virechana,Therapeutic Purgation,Panchakarma,,Ashtanga Hridayam
+Basti,Medicated Enema,Panchakarma,Vasti,Ashtanga Hridayam
+Nasya,Nasal Administration,Panchakarma,Nasyakarma,Ashtanga Hridayam
+Raktamokshana,Bloodletting Therapy,Panchakarma,,Sushruta Samhita
+Triphala,Three Fruits Combination,Formulation,,Ayurvedic Formulary of India
+Trikatu,Three Pungents Combination,Formulation,,Ayurvedic Formulary of India
+Chyawanprash,Herbal Jam / Rasayana Preparation,Formulation,Chyavanaprasham,Charaka Samhita
