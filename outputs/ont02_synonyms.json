@@ -59,7 +59,7 @@
     "sanskrit": "Majja",
     "english": "Bone Marrow / Nerve Tissue",
     "category": "Dhatu",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Ashtanga Hridayam"
   },
   {
@@ -178,7 +178,7 @@
     "sanskrit": "Kasa",
     "english": "Cough",
     "category": "Disease",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Charaka Samhita"
   },
   {
@@ -192,14 +192,14 @@
     "sanskrit": "Kushtha",
     "english": "Skin Diseases / Leprosy",
     "category": "Disease",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Charaka Samhita"
   },
   {
     "sanskrit": "Arsha",
     "english": "Haemorrhoids / Piles",
     "category": "Disease",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Sushruta Samhita"
   },
   {
@@ -213,14 +213,14 @@
     "sanskrit": "Vamana",
     "english": "Therapeutic Emesis / Vomiting Therapy",
     "category": "Panchakarma",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Ashtanga Hridayam"
   },
   {
     "sanskrit": "Virechana",
     "english": "Therapeutic Purgation",
     "category": "Panchakarma",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Ashtanga Hridayam"
   },
   {
@@ -241,21 +241,21 @@
     "sanskrit": "Raktamokshana",
     "english": "Bloodletting Therapy",
     "category": "Panchakarma",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Sushruta Samhita"
   },
   {
     "sanskrit": "Triphala",
     "english": "Three Fruits Combination",
     "category": "Formulation",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Ayurvedic Formulary of India"
   },
   {
     "sanskrit": "Trikatu",
     "english": "Three Pungents Combination",
     "category": "Formulation",
-    "alternate_sanskrit": "",
+    "alternate_sanskrit": "N/A",
     "source": "Ayurvedic Formulary of India"
   },
   {
@@ -263,6 +263,6 @@
     "english": "Herbal Jam / Rasayana Preparation",
     "category": "Formulation",
     "alternate_sanskrit": "Chyavanaprasham",
-    "source": "Charaka Samhita"
+    "source": "Charaka Samhita / Ayurvedic Formulary of India"
   }
 ]

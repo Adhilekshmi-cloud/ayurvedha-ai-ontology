@@ -4,7 +4,7 @@ import os
 
 os.makedirs("outputs", exist_ok=True)
 
-# ── Ayurveda Concept Hierarchy ──────────────────────────────────────────────
+# ── Ayurveda Concept Hierarchy (CORRECTED) ──────────────────────────────────
 hierarchy = {
   "Ayurveda": {
     "Fundamental Concepts": {
@@ -15,14 +15,11 @@ hierarchy = {
       "Trimala": ["Mutra", "Purisha", "Sweda"]
     },
     "Prakriti (Constitution)": {
-      "Vata Prakriti": [],
-      "Pitta Prakriti": [],
-      "Kapha Prakriti": [],
       "Dwandwa Prakriti": ["Vata-Pitta", "Pitta-Kapha", "Vata-Kapha"],
-      "Tridoshaja Prakriti": []
+      "Tridoshaja Prakriti": ["Sama Prakriti"]
     },
     "Herbs & Medicinal Plants": {
-      "Adaptogenic Herbs": ["Ashwagandha", "Shatavari", "Brahmi"],
+      "Adaptogenic Herbs": ["Ashwagandha", "Shatavari"],
       "Digestive Herbs": ["Triphala", "Trikatu", "Ginger", "Cumin"],
       "Anti-inflammatory Herbs": ["Turmeric", "Neem", "Guduchi"],
       "Nervine Herbs": ["Brahmi", "Shankhapushpi", "Jatamansi"],
@@ -66,32 +63,25 @@ hierarchy = {
 # ── Save JSON ────────────────────────────────────────────────────────────────
 with open("outputs/ont01_hierarchy.json", "w", encoding="utf-8") as f:
     json.dump(hierarchy, f, indent=2, ensure_ascii=False)
-print("✅ ont01_hierarchy.json saved")
+print("ont01_hierarchy.json saved")
 
 # ── Flatten to CSV ───────────────────────────────────────────────────────────
 rows = []
 for root, categories in hierarchy.items():
     for category, subcategories in categories.items():
         for subcategory, concepts in subcategories.items():
-            if concepts:
-                for concept in concepts:
-                    rows.append({
-                        "root": root,
-                        "category": category,
-                        "subcategory": subcategory,
-                        "concept": concept,
-                        "level": 4
-                    })
-            else:
+            for concept in concepts:
                 rows.append({
                     "root": root,
                     "category": category,
                     "subcategory": subcategory,
-                    "concept": "",
-                    "level": 3
+                    "concept": concept,
+                    "level": 4
                 })
 
 df = pd.DataFrame(rows)
+# Remove any accidental duplicate concepts
+df = df.drop_duplicates(subset=["concept"], keep="first")
 df.to_csv("outputs/ont01_hierarchy.csv", index=False, encoding="utf-8")
-print("✅ ont01_hierarchy.csv saved")
+print("ont01_hierarchy.csv saved")
 print(f"   Total rows: {len(df)}")

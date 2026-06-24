@@ -34,21 +34,19 @@
       ]
     },
     "Prakriti (Constitution)": {
-      "Vata Prakriti": [],
-      "Pitta Prakriti": [],
-      "Kapha Prakriti": [],
       "Dwandwa Prakriti": [
         "Vata-Pitta",
         "Pitta-Kapha",
         "Vata-Kapha"
       ],
-      "Tridoshaja Prakriti": []
+      "Tridoshaja Prakriti": [
+        "Sama Prakriti"
+      ]
     },
     "Herbs & Medicinal Plants": {
       "Adaptogenic Herbs": [
         "Ashwagandha",
-        "Shatavari",
-        "Brahmi"
+        "Shatavari"
       ],
       "Digestive Herbs": [
         "Triphala",

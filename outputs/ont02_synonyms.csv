@@ -7,7 +7,7 @@ Rakta,Blood,Dhatu,"Asra, Lohita",Ashtanga Hridayam
 Mamsa,Muscle Tissue,Dhatu,Palala,Ashtanga Hridayam
 Meda,Adipose / Fat Tissue,Dhatu,Vasaa,Ashtanga Hridayam
 Asthi,Bone Tissue,Dhatu,Haddi,Ashtanga Hridayam
-Majja,Bone Marrow / Nerve Tissue,Dhatu,,Ashtanga Hridayam
+Majja,Bone Marrow / Nerve Tissue,Dhatu,N/A,Ashtanga Hridayam
 Shukra,Reproductive Tissue / Semen,Dhatu,Retas,Ashtanga Hridayam
 Ashwagandha,Indian Ginseng / Winter Cherry,Herb,"Vajigandha, Balya",Ayurvedic Pharmacopoeia of India
 Shatavari,Asparagus,Herb,"Shatamuli, Bahusuta",Ayurvedic Pharmacopoeia of India
@@ -24,16 +24,16 @@ Pippali,Long Pepper,Herb,"Magadhi, Ushana",Ayurvedic Pharmacopoeia of India
 Arjuna,Arjuna Tree / Terminalia arjuna,Herb,"Kakubha, Nadisarja",Ayurvedic Pharmacopoeia of India
 Prameha,Urinary Disorders / Diabetes,Disease,Madhumeha (specific),Charaka Samhita
 Ajirna,Indigestion,Disease,Amasaya Roga,Charaka Samhita
-Kasa,Cough,Disease,,Charaka Samhita
+Kasa,Cough,Disease,N/A,Charaka Samhita
 Swasa,Asthma / Dyspnoea,Disease,Shwasa,Charaka Samhita
-Kushtha,Skin Diseases / Leprosy,Disease,,Charaka Samhita
-Arsha,Haemorrhoids / Piles,Disease,,Sushruta Samhita
+Kushtha,Skin Diseases / Leprosy,Disease,N/A,Charaka Samhita
+Arsha,Haemorrhoids / Piles,Disease,N/A,Sushruta Samhita
 Sthoulya,Obesity,Disease,Atisthaulya,Charaka Samhita
-Vamana,Therapeutic Emesis / Vomiting Therapy,Panchakarma,,Ashtanga Hridayam
-Virechana,Therapeutic Purgation,Panchakarma,,Ashtanga Hridayam
+Vamana,Therapeutic Emesis / Vomiting Therapy,Panchakarma,N/A,Ashtanga Hridayam
+Virechana,Therapeutic Purgation,Panchakarma,N/A,Ashtanga Hridayam
 Basti,Medicated Enema,Panchakarma,Vasti,Ashtanga Hridayam
 Nasya,Nasal Administration,Panchakarma,Nasyakarma,Ashtanga Hridayam
-Raktamokshana,Bloodletting Therapy,Panchakarma,,Sushruta Samhita
-Triphala,Three Fruits Combination,Formulation,,Ayurvedic Formulary of India
-Trikatu,Three Pungents Combination,Formulation,,Ayurvedic Formulary of India
-Chyawanprash,Herbal Jam / Rasayana Preparation,Formulation,Chyavanaprasham,Charaka Samhita
+Raktamokshana,Bloodletting Therapy,Panchakarma,N/A,Sushruta Samhita
+Triphala,Three Fruits Combination,Formulation,N/A,Ayurvedic Formulary of India
+Trikatu,Three Pungents Combination,Formulation,N/A,Ayurvedic Formulary of India
+Chyawanprash,Herbal Jam / Rasayana Preparation,Formulation,Chyavanaprasham,Charaka Samhita / Ayurvedic Formulary of India

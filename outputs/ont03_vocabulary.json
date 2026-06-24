@@ -5,7 +5,7 @@
     "term_type": "Dosha",
     "definition": "One of the three biological energies governing movement, nervous system, and elimination",
     "standard_source": "Charaka Samhita",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -14,7 +14,7 @@
     "term_type": "Dosha",
     "definition": "One of the three biological energies governing digestion, metabolism, and transformation",
     "standard_source": "Charaka Samhita",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -23,7 +23,7 @@
     "term_type": "Dosha",
     "definition": "One of the three biological energies governing structure, lubrication, and immunity",
     "standard_source": "Charaka Samhita",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -32,7 +32,7 @@
     "term_type": "Dhatu",
     "definition": "First tissue layer; plasma and lymphatic fluid",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -41,7 +41,7 @@
     "term_type": "Dhatu",
     "definition": "Second tissue layer; blood and its components",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -50,7 +50,7 @@
     "term_type": "Dhatu",
     "definition": "Third tissue layer; muscle tissue",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -59,7 +59,7 @@
     "term_type": "Dhatu",
     "definition": "Fourth tissue layer; adipose/fat tissue",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -68,7 +68,7 @@
     "term_type": "Dhatu",
     "definition": "Fifth tissue layer; bone tissue",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -77,7 +77,7 @@
     "term_type": "Dhatu",
     "definition": "Sixth tissue layer; bone marrow and nerve tissue",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -86,7 +86,7 @@
     "term_type": "Dhatu",
     "definition": "Seventh tissue layer; reproductive tissue",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -95,7 +95,7 @@
     "term_type": "Herb",
     "definition": "Withania somnifera; adaptogenic herb used for strength and vitality",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -104,7 +104,7 @@
     "term_type": "Herb",
     "definition": "Asparagus racemosus; rejuvenating herb for female reproductive health",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -113,7 +113,7 @@
     "term_type": "Herb",
     "definition": "Bacopa monnieri; nervine tonic for memory and cognition",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -122,7 +122,7 @@
     "term_type": "Herb",
     "definition": "Curcuma longa; anti-inflammatory and antimicrobial herb",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -131,7 +131,7 @@
     "term_type": "Herb",
     "definition": "Azadirachta indica; blood purifier and skin disease remedy",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -140,7 +140,7 @@
     "term_type": "Herb",
     "definition": "Tinospora cordifolia; immunomodulator and adaptogen",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -149,7 +149,7 @@
     "term_type": "Herb",
     "definition": "Emblica officinalis; richest natural source of Vitamin C, Rasayana herb",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -158,7 +158,7 @@
     "term_type": "Herb",
     "definition": "Terminalia chebula; digestive, laxative, and Rasayana herb",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -167,7 +167,7 @@
     "term_type": "Herb",
     "definition": "Terminalia bellerica; respiratory and digestive herb",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -176,7 +176,7 @@
     "term_type": "Herb",
     "definition": "Terminalia arjuna; cardiac tonic herb",
     "standard_source": "Ayurvedic Pharmacopoeia of India Vol.1",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -185,7 +185,7 @@
     "term_type": "Formulation",
     "definition": "Powder of three fruits (Amalaki, Haritaki, Bibhitaki); digestive and detox formula",
     "standard_source": "Ayurvedic Formulary of India",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -194,7 +194,7 @@
     "term_type": "Formulation",
     "definition": "Powder of three pungents (Shunthi, Maricha, Pippali); digestive stimulant",
     "standard_source": "Ayurvedic Formulary of India",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -203,7 +203,7 @@
     "term_type": "Formulation",
     "definition": "Classical Rasayana jam with Amalaki base; immunity booster",
     "standard_source": "Charaka Samhita / Ayurvedic Formulary of India",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -212,7 +212,7 @@
     "term_type": "Formulation",
     "definition": "Fermented preparation of ten roots; tonic for postpartum and respiratory health",
     "standard_source": "Ayurvedic Formulary of India",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -221,7 +221,7 @@
     "term_type": "Formulation",
     "definition": "Classical tablet for liver disorders and skin diseases",
     "standard_source": "Ayurvedic Formulary of India",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -293,7 +293,7 @@
     "term_type": "Panchakarma",
     "definition": "Therapeutic emesis; primary treatment for Kapha disorders",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -302,7 +302,7 @@
     "term_type": "Panchakarma",
     "definition": "Therapeutic purgation; primary treatment for Pitta disorders",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -311,7 +311,7 @@
     "term_type": "Panchakarma",
     "definition": "Medicated enema; primary treatment for Vata disorders",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -320,7 +320,7 @@
     "term_type": "Panchakarma",
     "definition": "Nasal drug administration; treatment for head and neck disorders",
     "standard_source": "Ashtanga Hridayam",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   },
   {
@@ -329,7 +329,7 @@
     "term_type": "Panchakarma",
     "definition": "Bloodletting therapy; treatment for blood-borne disorders",
     "standard_source": "Sushruta Samhita",
-    "icd_mapping": "",
+    "icd_mapping": "N/A",
     "status": "Active"
   }
 ]
